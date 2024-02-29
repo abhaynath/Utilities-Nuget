@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
-    <PackageId>abhay-k-nath-utiliities</PackageId>
-    <Title>abhaynath-utilities</Title>
+    <PackageId>abhay-utils</PackageId>
+    <Title>abhay-utils</Title>
     <Authors>Abhay Nath</Authors>
     <Company>Abhay Nath</Company>
     <Description>C# library for common utilities</Description>
