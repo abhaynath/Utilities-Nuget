@@ -4,6 +4,24 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>abhay-k-nath-utiliities</PackageId>
+    <Title>abhaynath-utilities</Title>
+    <Authors>Abhay Nath</Authors>
+    <Company>Abhay Nath</Company>
+    <Description>C# library for common utilities</Description>
+    <PackageProjectUrl>https://github.com/abhaynath/Utilities-Nuget</PackageProjectUrl>
+    <PackageIcon>utilities.png</PackageIcon>
+    <RepositoryUrl>https://github.com/abhaynath/Utilities-Nuget</RepositoryUrl>
+    <PackageTags>C#,utilities,dotnet</PackageTags>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\DELL\Desktop\utilities.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
